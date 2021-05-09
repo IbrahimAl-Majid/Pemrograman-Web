@@ -35,16 +35,6 @@ while($user_data = mysqli_fetch_array($result)) {
 ?>
 
 <!DOCTYPE html>
-<html>
-<head>
-	<title>Edit Data Karyawan</title>
-</head>
-<body>
-	
-</body>
-</html>
-
-<!doctype html>
 <html lang="en">
 <head>
 
